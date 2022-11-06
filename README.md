@@ -1,2 +1,1 @@
-# py_repo
-A generic template for a Python repository
+Statistical & autonomous self-calibration in visibility space
